@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hgBQUfVFBrUQ6PLUXk2Mz65H6bpSCI1rrNIRA9LW/MSsgV8COdNU7f1k/1N/E1gkstqWUjUMVxnF9jp/Azh6sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Korisnik\\source\\repos\\MuseumApi\\MuseumApi\\MuseumApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korisnik\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
